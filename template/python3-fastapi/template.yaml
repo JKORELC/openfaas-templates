@@ -1,0 +1,4 @@
+language: python3-fastapi
+fprocess: python index.py
+build_options:
+  - name: dev
